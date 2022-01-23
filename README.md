@@ -1,5 +1,5 @@
 # Hex-Cambridge-22-ESG
-Algorithm to simplify efficient ESG stock Selection
+Algorithm to improve efficient ESG stock Selection for Retail Investors
 ## Inspiration
 
 ESG - Environmental, Social, and Governance data have become an important factor in investing over the last few years. ESG seeks to invest in companies that maximize shareholder value while not compromising other stakeholders. However, one of the main challenges of ESG funds today is the low correlation among scores from different ESG providers. Ideally, ESG seeks to measure the company's impact, and having multiple scores using different methods creates confusion among investors who might lack the knowledge to go through each in detail. 
